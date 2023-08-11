@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue;
+}
+
+#head{
+    margin: auto;
+    text-align: center;
+    color: tomato;
+}
+
+.outer{
+    background-color:burlywood;
+    margin: auto;
+    border: 2px double black;
+    width: 310px;
+    height: 300px;
+}
+
+label{
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
+#weight{
+    margin-left: 5%;
+}
+
+#height{
+    margin-left: 5%;
+}
+
+input{
+    margin-left: 20%;
+}
+
+
+#btn{
+    margin-left: 120px;
+    margin-top: 30px;  
+}
+
+#result{
+    color: red;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 30px;
+    text-align: center;  
+}
